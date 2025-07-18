@@ -3,6 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.example.appcordova",
-    "sha256_cert_fingerprints": ["E7115F95AD4095B2CA06FF90E759681432C4D999E8BEDB485373786C8BA85ADD"]
+    "sha256_cert_fingerprints": ["8C:04:85:98:C5:C2:B1:DC:65:72:CB:DE:F5:1A:EE:C3:32:48:04:72:55:D2:8B:C2:CF:E3:A2:5C:8C:97:59:B9"]
   }
 }]
