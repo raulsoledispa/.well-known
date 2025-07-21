@@ -21,7 +21,8 @@
         "package_name": "com.technisys.empresas.gp.mobile",
         "sha256_cert_fingerprints": [
           "80:00:5C:8F:C4:62:46:D6:EC:34:3B:13:ED:1F:3A:EF:16:2B:F6:81:58:54:74:66:5E:78:2D:90:29:D8:AD:54",
-          "8C:04:85:98:C5:C2:B1:DC:65:72:CB:DE:F5:1A:EE:C3:32:48:04:72:55:D2:8B:C2:CF:E3:A2:5C:8C:97:59:B9"
+          "8C:04:85:98:C5:C2:B1:DC:65:72:CB:DE:F5:1A:EE:C3:32:48:04:72:55:D2:8B:C2:CF:E3:A2:5C:8C:97:59:B9",
+          "80:98:77:CD:7C:D8:92:FC:64:5C:1D:EB:FA:49:05:C8:8D:F0:AB:D4:8C:5F:1D:84:45:8C:BE:97:28:3C:DE:D5"
         ]
       }
     }
